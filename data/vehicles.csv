@@ -1,0 +1,262 @@
+﻿id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7222695916,prescott,6000,,,,,,,,,,,,,,,az
+7218891961,fayetteville,11900,,,,,,,,,,,,,,,ar
+7221797935,florida keys,21000,,,,,,,,,,,,,,,fl
+7222270760,worcester / central MA,1500,,,,,,,,,,,,,,,ma
+7210384030,greensboro,4900,,,,,,,,,,,,,,,nc
+7222379453,hudson valley,1600,,,,,,,,,,,,,,,ny
+7221952215,hudson valley,1000,,,,,,,,,,,,,,,ny
+7220195662,hudson valley,15995,,,,,,,,,,,,,,,ny
+7209064557,medford-ashland,5000,,,,,,,,,,,,,,,or
+7219485069,erie,3000,,,,,,,,,,,,,,,pa
+7218893038,el paso,0,,,,,,,,,,,,,,,tx
+7218325704,el paso,0,,,,,,,,,,,,,,,tx
+7217788283,el paso,0,,,,,,,,,,,,,,,tx
+7217147606,el paso,0,,,,,,,,,,,,,,,tx
+7209027818,el paso,0,,,,,,,,,,,,,,,tx
+7223509794,bellingham,13995,,,,,,,,,,,,,,,wa
+7222753076,bellingham,24999,,,,,,,,,,,,,,,wa
+7222206015,bellingham,21850,,,,,,,,,,,,,,,wa
+7220030122,bellingham,26850,,,,,,,,,,,,,,,wa
+7218423006,bellingham,11999,,,,,,,,,,,,,,,wa
+7216672204,bellingham,24999,,,,,,,,,,,,,,,wa
+7215617048,bellingham,21850,,,,,,,,,,,,,,,wa
+7213839225,bellingham,26850,,,,,,,,,,,,,,,wa
+7208549803,bellingham,11999,,,,,,,,,,,,,,,wa
+7213843538,skagit / island / SJI,24999,,,,,,,,,,,,,,,wa
+7212631321,skagit / island / SJI,21850,,,,,,,,,,,,,,,wa
+7219973522,la crosse,500,,,,,,,,,,,,,,,wi
+7316814884,auburn,33590,2014,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923,clean,other,3GTP1VEC4EG551563,,,pickup,white,al
+7316814758,auburn,22590,2010,chevrolet,silverado 1500,good,8 cylinders,gas,71229,clean,other,1GCSCSE06AZ123805,,,pickup,blue,al
+7316814989,auburn,39590,2020,chevrolet,silverado 1500 crew,good,8 cylinders,gas,19160,clean,other,3GCPWCED5LG130317,,,pickup,red,al
+7316743432,auburn,30990,2017,toyota,tundra double cab sr,good,8 cylinders,gas,41124,clean,other,5TFRM5F17HX120972,,,pickup,red,al
+7316356412,auburn,15000,2013,ford,f-150 xlt,excellent,6 cylinders,gas,128000,clean,automatic,,rwd,full-size,truck,black,al
+7316343444,auburn,27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al
+7316304717,auburn,34590,2016,chevrolet,silverado 1500 double,good,6 cylinders,gas,29499,clean,other,1GCVKREH6GZ228691,4wd,,pickup,silver,al
+7316285779,auburn,35000,2019,toyota,tacoma,excellent,6 cylinders,gas,43000,clean,automatic,,4wd,,truck,grey,al
+7316257769,auburn,29990,2016,chevrolet,colorado extended cab,good,6 cylinders,gas,17302,clean,other,1GCHTCE37G1186784,4wd,,pickup,red,al
+7316133914,auburn,38590,2011,chevrolet,corvette grand sport,good,8 cylinders,gas,30237,clean,other,1G1YR3DW3B5102190,rwd,,other,red,al
+7316130053,auburn,4500,1992,jeep,cherokee,excellent,6 cylinders,gas,192000,clean,automatic,,4wd,,,,al
+7315816316,auburn,32990,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,30041,clean,other,1C4BJWDG5HL705371,4wd,,other,silver,al
+7315770394,auburn,24590,2017,chevrolet,silverado 1500 regular,good,6 cylinders,gas,40784,clean,other,1GCNCNEH7HZ118773,,,pickup,white,al
+7315756348,auburn,30990,2016,chevrolet,colorado crew cab z71,good,,other,34940,clean,other,1GCGTDE32G1341288,4wd,,pickup,blue,al
+7315715960,auburn,27990,2014,toyota,tacoma access cab pickup,good,,other,17805,clean,other,5TFTX4CN3EX042751,,,pickup,red,al
+7315379459,auburn,37990,2016,chevrolet,camaro ss coupe 2d,good,8 cylinders,gas,9704,clean,other,1G1FF1R79G0140582,rwd,,coupe,red,al
+7315275975,auburn,33590,2014,toyota,tundra crewmax sr5 pickup,good,,other,55251,clean,other,5TFEY5F15EX169621,,,pickup,red,al
+7315275942,auburn,30990,2019,ford,ranger supercrew xl pickup,good,,other,1834,clean,other,1FTER4EH3KLA31326,,,pickup,black,al
+7315270785,auburn,27990,2018,nissan,frontier crew cab pro-4x,good,6 cylinders,gas,37332,clean,other,1N6AD0EV5JN745213,4wd,,pickup,silver,al
+7315039307,auburn,0,2011,jeep,compass,excellent,,gas,99615,clean,automatic,,,full-size,SUV,,al
+7314910156,auburn,34590,2018,ford,f150 super cab xl pickup 4d,good,6 cylinders,gas,20856,clean,other,1FTEX1CBXJKD41626,,,pickup,white,al
+7314854462,auburn,30590,2016,toyota,tacoma double cab sr5,good,,other,30176,clean,other,3TMAZ5CN7GM019182,,,pickup,red,al
+7314811916,auburn,32990,2020,jeep,wrangler sport suv 2d,good,,gas,20581,clean,other,1C4GJXAN4LW180633,4wd,,SUV,silver,al
+7314811909,auburn,38990,2020,ford,f150 supercrew cab xlt,good,6 cylinders,gas,12231,clean,other,1FTEW1CP4LFB84170,,,pickup,,al
+7314584296,auburn,22590,2017,ram,1500 regular cab tradesman,good,8 cylinders,gas,39508,clean,other,3C6JR6DT3HG557601,,,pickup,white,al
+7314584315,auburn,31590,2020,mazda,mx-5 miata club,good,,gas,2195,clean,other,JM1NDAC74L0413665,rwd,,other,,al
+7314584322,auburn,27990,2020,ford,ranger supercab xl pickup,good,,gas,10688,clean,other,1FTER1EH1LLA36301,,,pickup,white,al
+7314584291,auburn,31590,2019,cadillac,xt4 sport suv 4d,good,,other,12102,clean,other,1GYFZER40KF121673,fwd,,hatchback,black,al
+7314560853,auburn,19900,2004,ford,f250 super duty,good,8 cylinders,diesel,88000,clean,automatic,,4wd,full-size,pickup,blue,al
+7313857831,auburn,16590,2016,jeep,renegade sport suv 4d,good,,gas,35835,clean,other,ZACCJBAW9GPC62449,4wd,,other,red,al
+7313857767,auburn,26990,2016,ford,f150 regular cab xl pickup,good,6 cylinders,gas,14230,clean,other,1FTMF1CP3GKD62143,,,pickup,black,al
+7313857701,auburn,25590,2015,gmc,sierra 1500 regular cab,good,6 cylinders,other,35290,clean,other,1GTN1TEH9FZ243281,,,pickup,white,al
+7313406529,auburn,14000,2012,honda,odyssey,excellent,6 cylinders,gas,95000,clean,automatic,,fwd,full-size,mini-van,silver,al
+7313387888,auburn,28590,2018,ram,1500 quad cab express pickup,good,6 cylinders,other,30047,clean,other,1C6RR6FG0JS259587,,,pickup,white,al
+7313387902,auburn,24590,2013,gmc,sierra 1500 extended cab slt,good,8 cylinders,other,80318,clean,other,1GTR1WE07DZ143724,,,pickup,,al
+7313337060,auburn,25990,2019,ram,1500 classic regular cab,good,8 cylinders,gas,12302,clean,other,3C6JR6DT3KG560649,,,pickup,white,al
+7313319521,auburn,34990,2018,ford,mustang gt premium,good,8 cylinders,gas,18650,clean,other,1FATP8FF5J5115190,rwd,,other,black,al
+7312858079,auburn,27990,2017,chevrolet,colorado extended cab,good,,gas,22120,clean,other,1GCHSCEA7H1203280,,,pickup,,al
+7312847466,auburn,22500,2001,ford,f450,good,8 cylinders,diesel,144700,clean,manual,,rwd,full-size,truck,white,al
+7312824400,auburn,32990,2019,chevrolet,silverado 1500 ld,good,,other,6897,clean,other,2GCVKNEC8K1187169,,,pickup,black,al
+7312799035,auburn,31990,2013,toyota,tundra double cab pickup,good,8 cylinders,gas,55068,clean,other,5TFUY5F19DX303623,4wd,,pickup,,al
+7312754093,auburn,29990,2014,chevrolet,silverado 1500 double,good,8 cylinders,gas,26129,clean,other,1GCVKREC7EZ196951,4wd,,pickup,brown,al
+7312342653,auburn,23990,2016,chevrolet,silverado 1500 regular,good,6 cylinders,gas,41568,clean,other,1GCNCNEH4GZ259783,,,pickup,white,al
+7312342811,auburn,22990,2012,toyota,tacoma access cab pickup,good,,gas,37725,clean,other,5TFTX4CN6CX015282,,,pickup,white,al
+7312337810,auburn,26990,2014,chevrolet,silverado 1500 crew,good,6 cylinders,gas,63129,clean,automatic,3GCPCREH5EG437908,,,pickup,black,al
+7312313815,auburn,33990,2017,jeep,wrangler unlimited sahara,good,6 cylinders,other,34152,clean,other,1C4HJWEG5HL696454,4wd,,SUV,white,al
+7312144944,auburn,15000,2017,dodge,charger rt 4dr sedan,excellent,8 cylinders,gas,90000,rebuilt,automatic,,rwd,mid-size,sedan,grey,al
+7311960895,auburn,26590,2020,honda,civic si coupe 2d,good,,gas,9954,clean,other,2HGFC3A51LH751302,fwd,,coupe,silver,al
+7311818339,auburn,18590,2018,honda,civic lx sedan 4d,good,,gas,28942,clean,other,19XFC2F59JE206832,fwd,,sedan,white,al
+7311818189,auburn,29590,2017,ford,expedition xlt sport,good,6 cylinders,gas,70760,clean,other,1FMJU1JT1HEA52352,4wd,,SUV,blue,al
+7311818157,auburn,21590,2018,honda,civic ex sedan 4d,good,,gas,7885,clean,other,2HGFC2F74JH589649,fwd,,sedan,,al
+7311409434,auburn,22590,2013,ford,f150 super cab xl pickup 4d,good,6 cylinders,other,14169,clean,other,1FTEX1CMXDFB16329,,,pickup,silver,al
+7311351407,auburn,33990,2020,jeep,wrangler sport suv 2d,good,6 cylinders,gas,9859,clean,other,1C4GJXAG9LW193038,4wd,,other,,al
+7311327726,auburn,29990,2012,toyota,tacoma double cab pickup,good,6 cylinders,gas,43182,clean,other,3TMLU4EN4CM085701,4wd,,pickup,white,al
+7311310782,auburn,37590,2019,ford,f150 supercrew cab xl,good,6 cylinders,gas,8663,clean,other,1FTEW1CP2KKC65268,,,pickup,,al
+7310905283,auburn,25990,2015,lexus,nx 300h sport utility 4d,good,,other,55783,clean,other,JTJBJRBZ8F2020836,,,hatchback,white,al
+7310848060,auburn,32990,2018,jaguar,e-pace p250 s sport,good,,other,26685,clean,other,SADFJ2FX1J1Z13468,,,other,white,al
+7310803539,auburn,28990,2020,buick,encore gx essence sport,good,,gas,21,clean,other,KL4MMGSL4LB128069,,,other,white,al
+7310798664,auburn,34990,2020,lexus,nx 300 sport utility 4d,good,,gas,1722,clean,other,JTJAARBZ1L2159357,fwd,,hatchback,black,al
+7310644616,auburn,3000,2004,chrysler,town & country,good,6 cylinders,gas,176144,clean,automatic,,fwd,mid-size,mini-van,silver,al
+7310383361,auburn,22590,2016,volvo,s60 t5 cross country,good,,gas,42755,clean,other,YV4612UMXG2000759,,,sedan,,al
+7310332383,auburn,36990,2019,volvo,s60 t6 inscription sedan,good,,gas,8141,clean,other,7JRA22TL6KG004114,,,sedan,white,al
+7310308166,auburn,31990,2020,volvo,s60 t5 momentum sedan 4d,good,,gas,16594,clean,other,7JR102FK7LG060315,fwd,,sedan,,al
+7310276274,auburn,28590,2019,volvo,s60 t5 momentum sedan 4d,good,,gas,18531,clean,other,7JR102FK4KG010003,fwd,,sedan,black,al
+7309876037,auburn,31990,2018,audi,q5 premium sport utility 4d,good,,gas,19179,clean,other,WA1ANAFY7J2102310,,,other,,al
+7309828117,auburn,19990,2015,infiniti,qx60 3.5 sport utility,good,,other,96003,clean,other,5N1AL0MM5FC519184,,,SUV,silver,al
+7309827921,auburn,29590,2017,lincoln,continental select sedan,good,6 cylinders,gas,35320,clean,other,1LN6L9TP6H5634048,,,sedan,black,al
+7309828053,auburn,29990,2018,alfa-romeo,romeo stelvio ti sport,good,,other,26978,clean,other,ZASFAKBN3J7B64774,,,hatchback,,al
+7309798041,auburn,2100,2006,subaru,impreza,fair,4 cylinders,gas,97000,clean,automatic,,,,hatchback,,al
+7309361405,auburn,80,2004,honda,,excellent,6 cylinders,gas,94020,clean,automatic,,,,,,al
+7309271279,auburn,15990,2016,,Scion iM Hatchback 4D,good,,gas,29652,clean,other,JTNKARJEXGJ517925,fwd,,hatchback,blue,al
+7309271051,auburn,20590,2013,acura,mdx sport utility 4d,good,6 cylinders,gas,77087,clean,other,2HNYD2H30DH510846,,,other,silver,al
+7309229548,auburn,29590,2018,audi,a6 2.0t premium sedan 4d,good,,gas,13035,clean,other,WAUC8AFC6JN041814,fwd,,sedan,,al
+7309192232,auburn,16590,2015,hyundai,sonata sport sedan 4d,good,,gas,26655,clean,other,5NPE34AF8FH021634,fwd,,sedan,white,al
+7309160821,auburn,12990,1968,volvo,,,,gas,99999,clean,manual,,,,,,al
+7308779719,auburn,33990,2017,ram,1500 crew cab tradesman,good,8 cylinders,gas,17033,clean,other,3C6RR7KT7HG794054,4wd,,pickup,blue,al
+7308779686,auburn,36590,2019,gmc,sierra 1500 limited double,good,8 cylinders,gas,14222,clean,other,2GTV2LECXK1123316,4wd,,pickup,blue,al
+7308745779,auburn,29590,2013,gmc,sierra 1500 extended cab slt,good,8 cylinders,gas,37888,clean,other,1GTR1WE01DZ407455,,,pickup,silver,al
+7308730136,auburn,40590,2019,ford,f250 super duty regular cab,good,8 cylinders,other,9313,clean,other,1FTBF2B65KEC91136,4wd,,pickup,white,al
+7308365829,auburn,33990,2018,jeep,wrangler unlimited willys,good,6 cylinders,gas,34636,clean,other,1C4BJWDG2JL806552,4wd,,other,white,al
+7308255063,auburn,43990,2019,jeep,wrangler unlimited sahara,good,,gas,4362,clean,other,1C4HJXEN4KW505794,4wd,,SUV,black,al
+7308217002,auburn,38990,2017,jeep,wrangler unlimited rubicon,good,6 cylinders,gas,20676,clean,other,1C4BJWFG3HL547853,4wd,,other,red,al
+7308216849,auburn,39590,2018,jeep,wrangler unlimited all new,good,6 cylinders,gas,21893,clean,other,1C4HJXEGXJW175675,4wd,,SUV,silver,al
+7307730503,auburn,9500,2003,chrysler,town & country,excellent,6 cylinders,gas,30376,clean,automatic,,fwd,mid-size,mini-van,blue,al
+7307218858,auburn,28590,2018,gmc,acadia sle-2 sport utility,good,6 cylinders,gas,20736,clean,other,1GKKNLLS2JZ178034,fwd,,SUV,white,al
+7307164168,auburn,16590,2013,lincoln,mkz sedan 4d,good,,gas,61087,clean,other,3LN6L2G99DR819673,fwd,,sedan,red,al
+7307164193,auburn,28990,2017,gmc,acadia slt-1 sport utility,good,6 cylinders,gas,18041,clean,other,1GKKNMLS2HZ305977,fwd,,SUV,,al
+7307142186,auburn,20590,2017,lincoln,mkz premiere sedan 4d,good,,gas,36436,clean,other,3LN6L5A97HR666209,fwd,,sedan,,al
+7306701617,auburn,26990,2015,lexus,nx 200t sport utility 4d,good,,gas,29738,clean,other,JTJYARBZ9F2013419,fwd,,hatchback,red,al
+7306676175,auburn,26990,2016,lexus,nx 200t sport utility 4d,good,,gas,31363,clean,other,JTJYARBZ5G2041512,fwd,,hatchback,white,al
+7306676124,auburn,22590,2020,buick,encore gx select sport,good,,other,5144,clean,other,KL4MMDSL8LB104338,,,SUV,red,al
+7306625443,auburn,35990,2018,jaguar,e-pace p250 se sport,good,,gas,8490,clean,other,SADFP2FX0J1Z05358,,,other,black,al
+7306407989,auburn,17500,2008,toyota,fj cruiser,good,6 cylinders,gas,201300,clean,manual,,4wd,full-size,offroad,black,al
+7306259907,auburn,6000,2007,mercedes-benz,e320 cdi,good,6 cylinders,diesel,124000,clean,automatic,,rwd,,sedan,blue,al
+7306238443,auburn,25990,2018,volvo,s60 t5 inscription sedan,good,,diesel,22834,clean,other,LYV402TK9JB177497,,,sedan,,al
+7306198330,auburn,6800,2005,,blue bird bus,excellent,6 cylinders,diesel,180000,clean,automatic,,rwd,full-size,bus,yellow,al
+7306178510,auburn,36590,2019,volvo,s60 t6 r-design sedan 4d,good,,gas,7618,clean,other,7JRA22TM2KG013336,,,sedan,white,al
+7306147932,auburn,35990,2019,volvo,s60 t6 r-design sedan 4d,good,,other,15567,clean,other,7JRA22TM4KG006873,,,sedan,red,al
+7306095627,auburn,33590,2019,volvo,s60 t6 r-design sedan 4d,good,,gas,10742,clean,other,7JRA22TM6KG005594,,,sedan,silver,al
+7305672709,auburn,0,2018,chevrolet,express cargo van,like new,6 cylinders,gas,68472,clean,automatic,1GCWGAFP8J1309579,rwd,full-size,van,white,al
+7305672266,auburn,0,2019,chevrolet,express cargo van,like new,6 cylinders,gas,69125,clean,automatic,1GCWGAFP4K1214373,rwd,full-size,van,white,al
+7305672252,auburn,0,2018,chevrolet,express cargo van,like new,6 cylinders,gas,66555,clean,automatic,1GCWGAFPXJ1337903,rwd,full-size,van,white,al
+7305666455,auburn,38990,2020,infiniti,qx60 luxe sport utility,good,6 cylinders,gas,5279,clean,other,5N1DL0MN9LC508268,fwd,,other,black,al
+7305631654,auburn,33990,2018,alfa-romeo,romeo stelvio ti sport suv,good,,gas,23753,clean,other,ZASFAKNN6J7B70368,,,hatchback,,al
+7305631581,auburn,27990,2017,lincoln,continental select sedan,good,6 cylinders,gas,19492,clean,automatic,1LN6L9TK4H5636420,,,sedan,,al
+7305578496,auburn,28590,2018,audi,q5 premium sport utility 4d,good,,gas,31033,clean,other,WA1ANAFY2J2198475,,,SUV,silver,al
+7305186870,auburn,18590,2018,hyundai,sonata sel sedan 4d,good,,gas,22075,clean,other,5NPE34AF7JH658815,fwd,,sedan,white,al
+7305150035,auburn,29990,2018,audi,a6 2.0t premium plus sedan,good,,other,24996,clean,automatic,WAUG8AFC8JN040987,,,sedan,silver,al
+7305150004,auburn,14990,2016,,Scion iM Hatchback 4D,good,,gas,65203,clean,other,JTNKARJE4GJ508198,fwd,,hatchback,red,al
+7305149985,auburn,39990,2020,acura,mdx sh-awd sport utility,good,6 cylinders,gas,1237,clean,other,5J8YD4H39LL041518,,,other,white,al
+7305082143,auburn,2500,1966,,1966 C-30 1 ton,good,6 cylinders,gas,47000,clean,manual,,rwd,full-size,pickup,brown,al
+7304785580,auburn,4000,2006,jeep,grand cherokee laredo,good,6 cylinders,gas,281000,clean,automatic,,rwd,mid-size,SUV,black,al
+7304685581,auburn,32990,2019,jeep,wrangler sport suv 2d,good,6 cylinders,other,1423,clean,other,1C4GJXAGXKW566358,4wd,,SUV,yellow,al
+7304685502,auburn,27590,2012,jeep,wrangler unlimited sport,good,6 cylinders,gas,52172,clean,other,1C4BJWDG5CL258372,4wd,,SUV,black,al
+7304646033,auburn,18590,2017,toyota,camry le sedan 4d,good,,gas,30223,clean,other,4T1BF1FK4HU421581,fwd,,sedan,silver,al
+7304645998,auburn,33590,2017,ram,1500 crew cab laramie pickup,good,,other,45464,clean,other,1C6RR6VT3HS551162,,,pickup,red,al
+7304184221,auburn,40990,2017,jeep,wrangler unlimited rubicon,good,,other,30092,clean,other,1C4BJWFG7HL558919,4wd,,other,black,al
+7304158673,auburn,33590,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,37919,clean,other,1C4BJWDG7HL689576,4wd,,SUV,black,al
+7304134738,auburn,31590,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,35391,clean,other,1C4BJWDG8HL671975,4wd,,SUV,black,al
+7304111898,auburn,30990,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,43039,clean,other,1C4BJWDG6HL650381,4wd,,SUV,silver,al
+7303661415,auburn,14590,2012,bmw,1 series 128i coupe 2d,good,,other,80465,clean,other,WBAUP9C53CVL91190,,,coupe,black,al
+7303661350,auburn,20590,2018,chrysler,300 limited sedan 4d,good,6 cylinders,gas,71021,clean,other,2C3CCAEG6JH123125,rwd,,sedan,black,al
+7303606749,auburn,19990,2020,mitsubishi,outlander sport es,good,,other,11103,clean,other,JA4AP3AU9LU013694,,,hatchback,orange,al
+7303606702,auburn,10990,2013,nissan,sentra s sedan 4d,good,,gas,81557,clean,other,3N1AB7AP2DL658501,fwd,,sedan,red,al
+7303236380,auburn,26990,2018,gmc,acadia sle-2 sport utility,good,6 cylinders,gas,26514,clean,other,1GKKNLLS5JZ181591,fwd,,SUV,,al
+7303130875,auburn,36590,2020,gmc,acadia denali sport utility,good,6 cylinders,gas,33026,clean,other,1GKKNXLS6LZ134810,,,SUV,black,al
+7303065930,auburn,30990,2020,gmc,acadia slt sport utility 4d,good,6 cylinders,gas,35200,clean,other,1GKKNULSXLZ132766,,,SUV,white,al
+7303065864,auburn,24590,2018,lincoln,mkz select sedan 4d,good,,gas,16081,clean,automatic,3LN6L5C91JR615484,fwd,,sedan,white,al
+7302642422,auburn,8990,2013,,smart fortwo Passion Hatchback,good,,gas,59072,clean,automatic,WMEEJ3BA2DK636540,rwd,,coupe,silver,al
+7302597055,auburn,23990,2015,lexus,nx 200t sport utility 4d,good,,other,48462,clean,other,JTJBARBZ6F2000472,,,hatchback,silver,al
+7302537601,auburn,25590,2020,buick,encore gx select sport,good,,gas,1113,clean,automatic,KL4MMDSL6LB104869,fwd,,SUV,red,al
+7302537532,auburn,52990,2020,jaguar,e-pace p300 r-dynamic se,good,,gas,79,clean,other,SADFL2GX2L1Z91107,,,other,white,al
+7302327214,auburn,19000,2017,subaru,forester,like new,4 cylinders,gas,22700,lien,automatic,,,,SUV,red,al
+7302286548,auburn,28000,2018,acura,tlx,excellent,,gas,55000,clean,automatic,,fwd,compact,sedan,white,al
+7302108846,auburn,17590,2015,volvo,s60 t5 premier sedan 4d,good,,gas,63512,clean,automatic,YV1612TBXF1304224,,,sedan,blue,al
+7302062793,auburn,36590,2020,volvo,s60 t6 r-design sedan 4d,good,,gas,18506,clean,other,7JRA22TM7LG032143,,,sedan,blue,al
+7302043460,auburn,35990,2020,volvo,s60 t6 inscription sedan,good,,other,11878,clean,other,7JRA22TL7LG037835,,,sedan,blue,al
+7302000016,auburn,38590,2019,volvo,s60 t8 r-design sedan 4d,good,,gas,14054,clean,automatic,7JRBR0FM4KG013841,,,sedan,black,al
+7301673626,auburn,29590,2018,lincoln,continental select sedan,good,6 cylinders,other,33047,clean,automatic,1LN6L9TP1J5605689,,,sedan,white,al
+7301673609,auburn,32590,2018,alfa-romeo,romeo stelvio sport suv 4d,good,,other,14863,clean,other,ZASFAKPN0J7B80942,,,hatchback,blue,al
+7301647209,auburn,27590,2018,infiniti,qx60 3.5 sport utility,good,6 cylinders,gas,41119,clean,automatic,5N1DL0MM4JC527444,,,SUV,blue,al
+7301624602,auburn,38990,2020,audi,q5 45 tfsi premium plus,good,,gas,19067,clean,other,WA1BNAFYXL2013483,,,SUV,white,al
+7316878036,birmingham,21950,2012,toyota,tacoma 4x4,excellent,4 cylinders,gas,143060,clean,manual,,4wd,,truck,silver,al
+7316874816,birmingham,13950,2011,toyota,tacoma,good,4 cylinders,gas,151060,clean,automatic,,rwd,,truck,silver,al
+7316873897,birmingham,5900,2001,,F-350,,8 cylinders,diesel,200000,clean,automatic,,rwd,,,,al
+7316872263,birmingham,12950,2005,bmw,z4,excellent,6 cylinders,gas,69586,clean,automatic,,rwd,,convertible,white,al
+7316871664,birmingham,18950,2010,ford,f150 lariat supercrew 4x4,good,8 cylinders,gas,151403,clean,automatic,,4wd,,pickup,black,al
+7316871204,birmingham,6995,2011,volkswagen,jetta sel,excellent,5 cylinders,gas,172752,clean,automatic,,fwd,,sedan,black,al
+7316870942,birmingham,12500,2008,ford,ranger xlt,excellent,6 cylinders,gas,141345,clean,automatic,,rwd,,truck,grey,al
+7316870516,birmingham,16950,2007,toyota,tacoma double cab,good,6 cylinders,gas,156792,clean,automatic,,rwd,,truck,white,al
+7316870143,birmingham,22950,2014,ford,f150 supercrew cab xlt,excellent,8 cylinders,gas,166380,clean,automatic,,4wd,full-size,truck,black,al
+7316869910,birmingham,12950,2011,honda,crv ex,excellent,4 cylinders,gas,87994,clean,automatic,,fwd,,SUV,silver,al
+7316869708,birmingham,12950,2007,mazda,mx-5 miata touring,excellent,4 cylinders,gas,90610,clean,automatic,,rwd,,convertible,black,al
+7316869215,birmingham,13950,2011,mazda,mx-5 miata grand touring,excellent,4 cylinders,gas,138235,clean,automatic,,rwd,,convertible,red,al
+7316868894,birmingham,19950,2009,porsche,boxster,excellent,6 cylinders,gas,80190,clean,automatic,,rwd,,convertible,red,al
+7316868562,birmingham,13950,2008,mazda,miata,excellent,4 cylinders,gas,86650,clean,manual,,rwd,,convertible,grey,al
+7316868220,birmingham,10950,2009,lexus,rx350,excellent,6 cylinders,gas,191955,clean,automatic,,4wd,full-size,SUV,white,al
+7316867506,birmingham,13950,2006,lexus,gx470,good,8 cylinders,gas,178790,clean,automatic,,4wd,full-size,SUV,,al
+7316853268,birmingham,1800,1998,toyota,rav4,good,4 cylinders,gas,240537,clean,manual,,,,,green,al
+7316852517,birmingham,21250,2002,ford,thunderbird,new,8 cylinders,gas,15996,clean,automatic,,fwd,compact,convertible,yellow,al
+7316846605,birmingham,4500,2008,ford,mustang,,6 cylinders,gas,187016,clean,automatic,1ZVHT80N885207297,rwd,,coupe,red,al
+7316788498,birmingham,39590,2020,chevrolet,silverado 1500 crew,good,8 cylinders,gas,19160,clean,other,3GCPWCED5LG130317,,,pickup,red,al
+7316788533,birmingham,26990,2017,nissan,titan single cab sv,good,8 cylinders,gas,41335,clean,other,1N6AA1R84HN570756,4wd,,pickup,red,al
+7316762099,birmingham,4299,2007,nissan,sentra,,4 cylinders,gas,189321,clean,automatic,3N1AB61EX7L640258,fwd,,sedan,silver,al
+7316755272,birmingham,0,2015,nissan,sentra,excellent,4 cylinders,gas,99505,clean,automatic,3N1AB7AP8FY348505,fwd,,sedan,silver,al
+7316735728,birmingham,3950,2008,kia,spectra ex,excellent,4 cylinders,gas,247377,clean,automatic,,,,sedan,,al
+7316734951,birmingham,5900,1998,ford,f150,excellent,8 cylinders,gas,214000,clean,automatic,,,full-size,truck,red,al
+7316725360,birmingham,33990,,,lac XT5 Crossover,,6 cylinders,gas,48784,clean,automatic,1GYKNERSXJZ160440,fwd,,SUV,black,al
+7316711193,birmingham,34995,2012,dodge,charger limousine,,,gas,41000,clean,automatic,,,,,,al
+7316707537,birmingham,3200,2005,ford,focus,good,4 cylinders,gas,189886,clean,automatic,,,,,,al
+7316702941,birmingham,3495,1999,ford,windstar,good,6 cylinders,gas,135448,clean,automatic,,,,,,al
+7316695553,birmingham,6500,2002,ford,sport trac,good,6 cylinders,gas,114775,clean,automatic,,,,,,al
+7316694878,birmingham,16988,2008,toyota,fj cruiser,,,gas,188099,clean,automatic,JTEBU11F580105856,4wd,,,,al
+7316694884,birmingham,16988,2018,nissan,altima,,,gas,57517,clean,automatic,1N4AL3AP6JC119377,fwd,,,silver,al
+7316694885,birmingham,26990,2018,nissan,frontier,,,gas,31814,clean,automatic,1N6AD0ER6JN756577,rwd,,,black,al
+7316694874,birmingham,32186,2021,toyota,tacoma,,,gas,1443,clean,automatic,5TFAX5GN0MX194170,rwd,,,,al
+7316691449,birmingham,16477,2015,buick,enclave,,,gas,103969,clean,automatic,5GAKRBKD5FJ308683,fwd,,,black,al
+7316691442,birmingham,58977,2019,gmc,sierra 3500,,,gas,66368,clean,automatic,1GT42WEY6KF184860,4wd,,,white,al
+7316686116,birmingham,30990,2016,chevrolet,silverado 1500 double,good,6 cylinders,gas,58116,clean,other,1GCRCREH7GZ111975,,,pickup,silver,al
+7316678016,birmingham,6900,2009,honda,ridgeline,fair,,gas,198000,clean,automatic,,4wd,,,,al
+7316673788,birmingham,3750,1997,ford,f150,,,gas,150000,clean,automatic,,,,,,al
+7316644188,birmingham,2500,1976,chevrolet,malibu classic,,,gas,100,clean,automatic,,,,,,al
+7316643987,birmingham,3500,2003,toyota,camry,good,4 cylinders,gas,237000,clean,automatic,,,,,,al
+7316643810,birmingham,1300,1969,mercedes-benz,benz,,,gas,12774,clean,automatic,,,,,,al
+7316622592,birmingham,25990,2016,bmw,5 series,,6 cylinders,gas,75123,clean,automatic,WBA5B3C58GG255986,,,sedan,black,al
+7316549537,birmingham,8000,2013,kia,optima,excellent,4 cylinders,gas,119000,rebuilt,automatic,5XXGN4A77DG230383,,,,white,al
+7316544266,birmingham,32000,2008,chevrolet,silverado 2500,good,8 cylinders,diesel,109600,clean,automatic,,4wd,full-size,truck,white,al
+7316535686,birmingham,3399,2006,buick,lacrosse,,6 cylinders,gas,160218,clean,automatic,2G4WD582061211256,fwd,,sedan,blue,al
+7316482063,birmingham,4000,2002,toyota,echo,excellent,4 cylinders,gas,155000,clean,automatic,JTDBT123520243495,fwd,compact,sedan,blue,al
+7316478418,birmingham,3900,2009,hyundai,elantra,,4 cylinders,gas,162005,clean,automatic,KMHDU46D49U684737,rwd,,sedan,white,al
+7316471857,birmingham,3000,2004,chevrolet,blazer,good,6 cylinders,gas,131500,clean,automatic,,4wd,mid-size,SUV,white,al
+7316469500,birmingham,2800,2009,nissan,versa,,,gas,109000,rebuilt,automatic,,,,,,al
+7316429417,birmingham,2500,1995,bmw,525i,fair,6 cylinders,gas,110661,clean,automatic,WBAHD6322SGK86772,rwd,mid-size,sedan,white,al
+7316423933,birmingham,53000,2006,,Sterling Acterra,,,diesel,160322,clean,automatic,,,,,,al
+7316422333,birmingham,33590,2014,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923,clean,other,3GTP1VEC4EG551563,,,pickup,white,al
+7316419757,birmingham,12500,2008,gmc,yukon xl,excellent,8 cylinders,gas,177326,clean,automatic,,rwd,full-size,SUV,black,al
+7316411064,birmingham,15990,2017,ford,c-max hybrid se wagon 4d,good,,hybrid,48195,clean,other,1FADP5AU1HL114567,fwd,,wagon,blue,al
+7316397515,birmingham,2500,2008,honda,accord,good,6 cylinders,gas,204561,clean,automatic,,fwd,full-size,sedan,silver,al
+7316396026,birmingham,20995,2011,chevrolet,silverado 1500 ltz crew cab 4wd,,,,137701,,automatic,3GCPKTE30BG264332,4wd,,pickup,,al
+7316395026,birmingham,25995,2015,chevrolet,silverado 1500 lt crew cab 4wd,,,,151681,,automatic,3GCUKREC2FG257362,4wd,,pickup,,al
+7316393935,birmingham,31995,2014,chevrolet,silverado 1500 2lt crew cab long box 4wd,,,,66738,,automatic,3GCUKREC8EG123888,4wd,,pickup,,al
+7316384231,birmingham,5500,1978,ford,f-150,good,8 cylinders,gas,239000,clean,automatic,,,full-size,truck,green,al
+7316383863,birmingham,29000,2005,ford,f750,,,diesel,77124,clean,automatic,,,,,,al
+7316368518,birmingham,27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al
+7316349679,birmingham,24990,2018,gmc,canyon extended cab pickup,good,,other,32329,clean,other,1GTH5BEA5J1215726,,,pickup,,al
+7316337545,birmingham,10990,2011,mercedes-benz,ml350,excellent,6 cylinders,gas,119172,clean,automatic,,4wd,,SUV,,al
+7316330293,birmingham,3300,1999,chrysler,300m,,6 cylinders,gas,162026,clean,automatic,2C3HE66G5XH565608,fwd,,sedan,,al
+7316328729,birmingham,27000,1954,ford,f100,,,gas,6000,clean,manual,,,,,,al
+7316307800,birmingham,27995,2017,ford,f-150,,,gas,101000,clean,automatic,,4wd,,,,al
+7316282669,birmingham,8100,2011,ford,escape,excellent,6 cylinders,hybrid,140000,clean,automatic,,fwd,,SUV,white,al
+7316262914,birmingham,20000,1979,chevrolet,malibu,like new,8 cylinders,gas,1234,clean,automatic,,rwd,,,black,al
+7316244350,birmingham,3999,2003,infiniti,g35 sedan,,6 cylinders,gas,233830,clean,automatic,JNKCV51E23M327551,rwd,,sedan,,al
+7316237340,birmingham,0,2019,chevrolet,silverado 1500,excellent,8 cylinders,gas,25127,clean,automatic,3GCUYGED2KG277424,4wd,,truck,red,al
+7316229137,birmingham,23500,1970,chevrolet,monte carlo,excellent,,gas,18678,clean,automatic,,,,,,al
+7316213984,birmingham,5300,2009,jeep,grand cherokee laredo,excellent,6 cylinders,gas,178000,clean,automatic,,4wd,,,,al
+7316211151,birmingham,0,2014,,Freightliner Cascadia,,,diesel,100,clean,automatic,,,,,,al
+7316206718,birmingham,45900,2017,,Maserati Levante,,6 cylinders,gas,36083,clean,automatic,ZN661XUA1HX210904,,,SUV,white,al
+7316198338,birmingham,0,2017,chevrolet,silverado 2500hd 4x4,like new,8 cylinders,diesel,102000,clean,automatic,,4wd,full-size,truck,silver,al
+7316187372,birmingham,5500,1974,mercedes-benz,1929 ssk replica,good,4 cylinders,gas,9999,clean,automatic,,rwd,mid-size,convertible,yellow,al
+7316170760,birmingham,3500,1996,chevrolet,tahoe,excellent,8 cylinders,gas,237000,clean,automatic,,4wd,full-size,offroad,black,al
+7316163074,birmingham,16902,2020,toyota,corolla,,,gas,11692,clean,automatic,5YFDPRAE6LP106166,fwd,,,black,al
+7316163069,birmingham,12307,2018,kia,soul,,,gas,95056,clean,automatic,KNDJP3A58J7592011,fwd,,,red,al
+7316163057,birmingham,37500,2018,ford,f-150,,,gas,30026,clean,automatic,1FTEW1EP0JFD83808,4wd,,,blue,al
+7316163025,birmingham,21688,2020,nissan,kicks,,,gas,7575,clean,automatic,3N1CP5DV4LL500636,fwd,,,,al
+7316160104,birmingham,29990,2016,chevrolet,colorado extended cab,good,6 cylinders,gas,17302,clean,other,1GCHTCE37G1186784,4wd,,pickup,red,al
+7316160083,birmingham,35590,2010,chevrolet,corvette convertible,good,8 cylinders,gas,31879,clean,other,1G1YC3DW6A5101146,rwd,,other,red,al
+7316159423,birmingham,18977,2017,kia,sorento,,,gas,70014,clean,automatic,5XYPH4A59HG319380,fwd,,,,al
+7316159405,birmingham,6877,2007,nissan,pathfinder,,,gas,155471,clean,automatic,5N1AR18U67C618936,rwd,,,,al
+7316156727,birmingham,500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,clean,other,,,full-size,bus,green,al
+7316142184,birmingham,12500,2015,volkswagen,passat tdi,excellent,,diesel,101000,clean,automatic,,,,,white,al
+7316100915,birmingham,27998,2008,porsche,cayman,,6 cylinders,gas,69505,clean,automatic,WP0AA29878U760792,rwd,,coupe,black,al
+7316080522,birmingham,0,2015,mercedes-benz,s-class,,8 cylinders,gas,78807,clean,automatic,,4wd,full-size,sedan,grey,al
+7316065114,birmingham,6800,2004,mercedes-benz,clk320,good,6 cylinders,gas,116700,clean,automatic,,rwd,,convertible,silver,al
+7316031977,birmingham,45000,2017,chevrolet,silverado,excellent,8 cylinders,gas,92000,clean,automatic,,4wd,full-size,truck,red,al
