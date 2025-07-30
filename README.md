@@ -1,21 +1,22 @@
-Customer Coupon Acceptance - Exploratory Data Analysis (EDA)
-Project Overview
+# What drives the price of a car?
+
+## Project Overview
 This project focuese on performan an EDA on the dataset related to the coupon acceptance. The goal is to analyse the dataset and understand the patterns for the coupon acceptance. Focus is to study the Bar and Coffee coupon acceptance. Analysis includes examing how age , weather , income , temperature , coupon expiration ,marital status and others impact the coupon acceptance rate. Visualizations such as bar plots are used to gain insights from the data.
 
-Tools and Libraries Used
+## Tools and Libraries Used
 Pandas: For data manipulation and analysis.
 NumPy: For numerical operations.
 Matplotlib: For creating static, animated, and interactive visualizations.
 Seaborn: For advanced statistical plots and visualization.
 Jupyter Notebook: For running and presenting the analysis interactively.
 colorama : Exploring this new library for styling and coloring the fonts for the hypothesis.
-Dataset
-https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
+## Dataset
+https://github.com/jpatil-bit/car-price/blob/main/data/vehicles.csv
 
-Key Features:
+##Key Features:
 destination passanger weather temperature coupon expiration gender age maritalStatus has_children education occupation income car Bar CoffeeHouse Y Where 1 means accepted and 0 implies rejected.
 
-Analysis and hypothesis
+##Analysis and hypothesis
 *** Jupyter file containes all the EDA's and plots ***
 
 https://github.com/jpatil-bit/customer-coupon/blob/main/customer_coupon_eda.ipynb
