@@ -23,10 +23,10 @@ https://github.com/jpatil-bit/car-price/blob/main/data/vehicles.csv
 https://github.com/jpatil-bit/car-price/blob/main/Used_car_recommendation.ipynb
 
 ## Recommendation for car delears
-Stock luxury brands and premium engines for higher margins & profit.
-Use economy brands for big sales.
-Target diesel vehicles , and convertibles for higher margins.
-Invest in quality detailing and repairs for higher profits.
+- Stock luxury brands and premium engines for higher margins & profit.
+- Use economy brands for big sales.
+- Target diesel vehicles, and convertibles for higher margins.
+- Invest in quality detailing and repairs for higher profits.
 
 ## Bar Plots:
 Getting Started
